@@ -12,6 +12,11 @@ To contribute, please open an issue referencing some data and / or open a pull r
 
 ## Data index
 
+### "Sea State and Boundary Layer Physics of the Emerging Arctic Ocean" program, 2015
+
+- data: https://digital.lib.washington.edu/researchworks/handle/1773/41864
+- deployment website: https://apl.uw.edu/project/project.php?id=arctic_sea_state
+
 ### Long-term measurements of ocean waves and sea ice draft in the central Beaufort Sea: measurements and processed data products available from 2012 to 2018
 
 Measurement at two sites in the Beaufort sea, from a couple of moorings. Data include wave statistics and ice draft.
