@@ -12,12 +12,25 @@ To contribute, please open an issue referencing some data and / or open a pull r
 
 ## Data index
 
+### Long-term measurements of ocean waves and sea ice draft in the central Beaufort Sea: measurements and processed data products available from 2012 to 2018
+
+Measurement at two sites in the Beaufort sea, from a couple of moorings. Data include wave statistics and ice draft.
+
+- data hosting and report: https://digital.lib.washington.edu/researchworks/handle/1773/46260
+
 ###  Coastal Ocean Dynamics in the Arctic (CODA): oceanographic moorings from 2019-2020 along the northern coast of Alaska
 
 Mooring data, over the period 2019-2020, along the Northen coast of Alaska. Data include sea ice thickness, wave activity, salinity, temperature.
 
 - data hosting: https://arcticdata.io/catalog/view/doi:10.18739/A2DF6K45W
 - cruise report and Matlab code: https://digital.lib.washington.edu/researchworks/handle/1773/47139
+
+### Data from "Wave-Driven Flow Along a Compact Marginal Ice Zone", Thomson et al, GRL, 2021
+
+Observations of surface waves and ice drift along a compact sea ice edge.
+
+- paper: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090735
+- data: https://digital.lib.washington.edu/researchworks/handle/1773/46602
 
 ## Future work
 
