@@ -6,6 +6,8 @@ The aim of this repository is to be a collaborative, community-driven, central h
 
 The main focus of this repository is to index datasets about sea ice drift, waves in ice, and related parameters, in the Marginal Ice Zone (MIZ).
 
+We use a "more or less chronological" order for the index.
+
 To contribute, please open an issue referencing some data and / or open a pull request. Please provide i) a short description ii) permanent links to the data indexed. The repository does not host data itself - that would be too much storage requirements. If you need help hosting some data, please open an issue - we will be happy to help.
 
 ## Data index
@@ -16,6 +18,11 @@ Mooring data, over the period 2019-2020, along the Northen coast of Alaska. Data
 
 - data hosting: https://digital.lib.washington.edu/researchworks/handle/1773/47139
 - cruise report and Matlab code: https://digital.lib.washington.edu/researchworks/handle/1773/46260
+
+## Future work
+
+- Keep growing the index
+- If the need emerges, provide a better alternative - some form of searchable database. However, this would be quite a bit of complexity, and a plain text github markdown file seems simplest at this point.
 
 ## Contributors
 
