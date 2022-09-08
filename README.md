@@ -16,3 +16,7 @@ Mooring data, over the period 2019-2020, along the Northen coast of Alaska. Data
 
 - data hosting: https://arcticdata.io/catalog/view/doi:10.18739/A2DF6K45W
 - cruise report and Matlab code
+
+## Contributors
+
+Many thanks to the contributors to this index, first of all scientists who collected the data and made it available, but also the people reporting data to be added to the index! Main maintainer: Jean Rabault; Contributors: Jim Thomson, .
