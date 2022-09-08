@@ -12,6 +12,13 @@ To contribute, please open an issue referencing some data and / or open a pull r
 
 ## Data index
 
+### Waves in-ice observations made during the SIPEX II voyage of the Aurora Australis, 2012
+
+Eight custom wave sensors were deployed in the Antarctic marginal ice zone along a transect line perpendicular to the ice edge and spread over approximately 200 km, measuring drift and wave information.
+
+- url: https://data.aad.gov.au/metadata/records/SIPEX_II_Waves
+- reference: Kohout, A. and Williams, M. (2015) Waves in-ice observations made during the SIPEX II voyage of the Aurora Australis, 2012, Ver. 1, Australian Antarctic Data Centre - doi:10.4225/15/53266BEC9607F
+
 ### "Sea State and Boundary Layer Physics of the Emerging Arctic Ocean" program, 2015
 
 - data: https://digital.lib.washington.edu/researchworks/handle/1773/41864
