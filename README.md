@@ -16,8 +16,8 @@ To contribute, please open an issue referencing some data and / or open a pull r
 
 Mooring data, over the period 2019-2020, along the Northen coast of Alaska. Data include sea ice thickness, wave activity, salinity, temperature.
 
-- data hosting: https://digital.lib.washington.edu/researchworks/handle/1773/47139
-- cruise report and Matlab code: https://digital.lib.washington.edu/researchworks/handle/1773/46260
+- data hosting: https://arcticdata.io/catalog/view/doi:10.18739/A2DF6K45W
+- cruise report and Matlab code: https://digital.lib.washington.edu/researchworks/handle/1773/47139
 
 ## Future work
 
