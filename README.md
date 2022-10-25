@@ -46,11 +46,6 @@ Observations of surface waves and ice drift along a compact sea ice edge.
 - paper: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090735
 - data: https://digital.lib.washington.edu/researchworks/handle/1773/46602
 
-## Future work
-
-- Keep growing the index
-- If the need emerges, provide a better alternative - some form of searchable database. However, this would be quite a bit of complexity, and a plain text github markdown file seems simplest at this point.
-
 ### Direct observations of sea ice drift and waves in ice over the period 2017-2022
 
 A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic and the Antarctic are gathered and formatted following the FAIR principles.
@@ -58,6 +53,11 @@ A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic
 - paper: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice
 - github repository: https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022
 - data url: https://doi.org/10.21343/AZKY-0X44
+
+## Future work
+
+- Keep growing the index
+- If the need emerges, provide a better alternative - some form of searchable database. However, this would be quite a bit of complexity, and a plain text github markdown file seems simplest at this point.
 
 ## Contributors
 
