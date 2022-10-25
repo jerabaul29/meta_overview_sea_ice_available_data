@@ -10,15 +10,9 @@ We use a "more or less chronological" order for the index.
 
 To contribute, please open an issue referencing some data and / or open a pull request. Please provide i) a short description ii) permanent links to the data indexed. The repository does not host data itself - that would be too much storage requirements. If you need help hosting some data, please open an issue - we will be happy to help.
 
+For now we will just keep it as a text file; if the need arises, we can always format it at a later point into a more classical database or similar.
+
 ## Data index
-
-### Direct observations of sea ice drift and waves in ice over the period 2017-2022
-
-A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic and the Antarctic are gathered and formatted following the FAIR principles.
-
-- paper: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice
-- github repository: https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022
-- data url: https://doi.org/10.21343/AZKY-0X44
 
 ### Waves in-ice observations made during the SIPEX II voyage of the Aurora Australis, 2012
 
@@ -56,6 +50,14 @@ Observations of surface waves and ice drift along a compact sea ice edge.
 
 - Keep growing the index
 - If the need emerges, provide a better alternative - some form of searchable database. However, this would be quite a bit of complexity, and a plain text github markdown file seems simplest at this point.
+
+### Direct observations of sea ice drift and waves in ice over the period 2017-2022
+
+A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic and the Antarctic are gathered and formatted following the FAIR principles.
+
+- paper: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice
+- github repository: https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022
+- data url: https://doi.org/10.21343/AZKY-0X44
 
 ## Contributors
 
