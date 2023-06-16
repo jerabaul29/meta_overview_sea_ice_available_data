@@ -38,6 +38,14 @@ Measurement at two sites in the Beaufort sea, from a couple of moorings. Data in
 
 - data hosting and report: https://digital.lib.washington.edu/researchworks/handle/1773/46260
 
+### MOSAIC 2019 expedition
+
+Measurements gathered by the MOSAIC expedition: 112 buoy trajectories, 216 quality controlled drift tracks.
+
+Links: https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2KP7TS83 , https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2WW77163 , https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2JD4PQ7V .
+
+For more information / additional datasets from this expedition, see. searching capabilities at https://arcticdata.io/catalog/data .
+
 ###  Coastal Ocean Dynamics in the Arctic (CODA): oceanographic moorings from 2019-2020 along the northern coast of Alaska
 
 Mooring data, over the period 2019-2020, along the Northen coast of Alaska. Data include sea ice thickness, wave activity, salinity, temperature.
