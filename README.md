@@ -12,6 +12,14 @@ To contribute, please open an issue referencing some data and / or open a pull r
 
 For now we will just keep it as a text file; if the need arises, we can always format it at a later point into a more classical database or similar.
 
+Feel free to share this as broadly as possible - the more people know about this index, the more it will be used and receive new pointers to relevant data and grow. To help disseminating the word about this index, you may want to refer to it in your papers; if you have contributed pointers to data and want to be added to the "authors" list, let me know and I will add you:
+
+```
+Meta-overview of sea ice available data
+URL: https://github.com/jerabaul29/meta_overview_sea_ice_available_data
+J. Rabault et. al.
+```
+
 ## Data index
 
 ### Waves in-ice observations made during the SIPEX II voyage of the Aurora Australis, 2012
