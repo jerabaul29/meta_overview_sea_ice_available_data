@@ -26,6 +26,12 @@ Eight custom wave sensors were deployed in the Antarctic marginal ice zone along
 - data: https://digital.lib.washington.edu/researchworks/handle/1773/41864
 - deployment website: https://apl.uw.edu/project/project.php?id=arctic_sea_state
 
+### N-ICE 2015 deployment
+
+42 buoys doing a variety of measurements were deployed in the area North from Svalbard. See the dataset and references to publications using the data at: https://data.npolar.no/dataset/6ed9a8ca-95b0-43be-bedf-8176bf56da80 .
+
+For an overview of the other datasets gathered, see: https://www.npolar.no/en/projects/n-ice2015/#toggle-project-dataset and https://data.npolar.no/dataset/7f7e56d0-9e70-4363-b37d-17915e09a935 .
+
 ### Long-term measurements of ocean waves and sea ice draft in the central Beaufort Sea: measurements and processed data products available from 2012 to 2018
 
 Measurement at two sites in the Beaufort sea, from a couple of moorings. Data include wave statistics and ice draft.
@@ -61,4 +67,4 @@ A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic
 
 ## Contributors
 
-Many thanks to the contributors to this index, first of all scientists who collected the data and made it available, but also the people reporting data to be added to the index! Main maintainer: Jean Rabault; Contributors: Jim Thomson, .
+Many thanks to the contributors to this index, first of all scientists who collected the data and made it available, but also the people reporting data to be added to the index! Main maintainer: Jean Rabault; Contributors: Jim Thomson, Daniel M. Watkins.
