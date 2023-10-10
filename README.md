@@ -54,7 +54,11 @@ Links: https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2KP7TS83 , https://a
 
 For more information / additional datasets from this expedition, see. searching capabilities at https://arcticdata.io/catalog/data .
 
-###  Coastal Ocean Dynamics in the Arctic (CODA): oceanographic moorings from 2019-2020 along the northern coast of Alaska
+### Direct observations of wave-sea ice interactions in the Antarctic Marginal Ice Zone, 2019
+
+From the paper "Direct observations of wave-sea ice interactions in the Antarctic Marginal Ice Zone", 2023. Data available at: https://zenodo.org/record/7845764 . This includes two drifting Surface Wave Instrument Float with Tracking (SWIFT) buoys deployed in the Weddell Sea in the austral winter and spring in 2019.
+
+###  Coastal Ocean Dynamics in the Arctic (CODA): oceanographic moorings from 2019-2020 along the northern coast of Alaska, 2019-2020
 
 Mooring data, over the period 2019-2020, along the Northen coast of Alaska. Data include sea ice thickness, wave activity, salinity, temperature.
 
