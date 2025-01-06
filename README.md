@@ -76,7 +76,7 @@ Observations of surface waves and ice drift along a compact sea ice edge.
 
 A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic and the Antarctic are gathered and formatted following the FAIR principles.
 
-- paper: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice
+- paper: https://www.nature.com/articles/s41597-023-02160-9
 - github repository: https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022
 - data url: https://doi.org/10.21343/AZKY-0X44
 
@@ -84,7 +84,7 @@ A total of 72 sea ice buoy trajectories (48 with wave data) from both the Arctic
 
 A total of 79 OMB trajectories from 2022 and 2023, covering the area around Svalbard.
 
-- paper: https://www.researchgate.net/publication/383813579_An_OpenMetBuoy_dataset_of_Marginal_Ice_Zone_dynamics_collected_around_Svalbard_in_2022_and_2023
+- paper: https://www.nature.com/articles/s41597-024-04281-1
 - github: https://github.com/jerabaul29/2024_OpenMetBuoy_data_release_MarginalIceZone_SeaIce_OpenOcean
 - data url: https://adc.met.no/datasets/10.21343/w2se-b681
 
