@@ -92,7 +92,7 @@ A total of 79 OMB trajectories from 2022 and 2023, covering the area around Sval
 
 A total of 34 OMBs equipped with additional temperature sensors from 2024, covering the area North from Svalbard.
 
-- paper: XXTODO
+- preprint of the paper: https://www.researchgate.net/publication/391571972_Svalbard_Marginal_Ice_Zone_2024_A_distributed_network_of_temperature_waves_and_sea_ice_drift_observations
 - github: https://github.com/jerabaul29/2025_Svalbard_MIZ_KVS_SvalMIZ24
 - data url: https://zenodo.org/records/15312810 
 
