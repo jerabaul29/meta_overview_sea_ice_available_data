@@ -88,6 +88,14 @@ A total of 79 OMB trajectories from 2022 and 2023, covering the area around Sval
 - github: https://github.com/jerabaul29/2024_OpenMetBuoy_data_release_MarginalIceZone_SeaIce_OpenOcean
 - data url: https://adc.met.no/datasets/10.21343/w2se-b681
 
+### SvalMIZ-24: 34 OMBs with temperature sensors around Svalbard, spring 2024
+
+A total of 34 OMBs equipped with additional temperature sensors from 2024, covering the area North from Svalbard.
+
+- paper: XXTODO
+- github: https://github.com/jerabaul29/2025_Svalbard_MIZ_KVS_SvalMIZ24
+- data url: https://zenodo.org/records/15312810 
+
 ## Future work
 
 - Keep growing the index
