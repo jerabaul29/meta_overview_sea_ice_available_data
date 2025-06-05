@@ -104,3 +104,7 @@ A total of 34 OMBs equipped with additional temperature sensors from 2024, cover
 ## Contributors
 
 Many thanks to the contributors to this index, first of all scientists who collected the data and made it available, but also the people reporting data to be added to the index! Main maintainer: Jean Rabault; Contributors: Jim Thomson, Daniel M. Watkins.
+
+## Visualization
+
+Most OpenMetBuoy (both v2018 and v2021) data can be visualized on OVL: see for example https://odl.bzh/rU1zSX3x .
