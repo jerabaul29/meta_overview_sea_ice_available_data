@@ -94,7 +94,16 @@ A total of 34 OMBs equipped with additional temperature sensors from 2024, cover
 
 - preprint of the paper: https://www.researchgate.net/publication/391571972_Svalbard_Marginal_Ice_Zone_2024_A_distributed_network_of_temperature_waves_and_sea_ice_drift_observations
 - github: https://github.com/jerabaul29/2025_Svalbard_MIZ_KVS_SvalMIZ24
-- data url: https://zenodo.org/records/15312810 
+- data url: https://zenodo.org/records/15312810
+
+### SvalMIZ-25
+
+A total of 21 OMBs equipped with additional temperature (both usual temperature probes and IR sensor) were deployed Spring 2025 North West of Svalbard.
+
+- cruise report: XXTODO
+- preprint of the paper: XXTODO
+- github: https://github.com/jerabaul29/2025_Svalbard_MIZ_KVS_SvalMIZ25/
+- data URL: https://zenodo.org/records/17087019 
 
 ## Future work
 
