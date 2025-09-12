@@ -100,7 +100,7 @@ A total of 34 OMBs equipped with additional temperature sensors from 2024, cover
 
 A total of 21 OMBs equipped with additional temperature (both usual temperature probes and IR sensor) were deployed Spring 2025 North West of Svalbard.
 
-- cruise report: XXTODO
+- cruise report: https://www.researchgate.net/publication/395441875_Cruise_Report_-_KV_Svalbard_25April-11May_2025_SvalMIZ-25_Svalbard_Marginal_Ice_Zone_2025_Campaign
 - preprint of the paper: XXTODO
 - github: https://github.com/jerabaul29/2025_Svalbard_MIZ_KVS_SvalMIZ25/
 - data URL: https://zenodo.org/records/17087019 
